@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Functional">
+<test name="ExpediaProject">
+
+<classes>
+
+ <class name="com.piit.com.Expedia.com.ExpediaExecution">
+ 
+ </class>
+</classes>
+</test>
+
+</suite>
